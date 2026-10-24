@@ -31,3 +31,16 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 * Train on a larger and more diverse dataset.
 * Improve prediction accuracy.
 * Experiment with different model architectures.
+* ## 🚀 Run on Google Colab
+
+Click below to open the notebook and run the project in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+## 🚀 Run on Google Colab
+
+Click below to open the notebook and run the project in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+
+
+
